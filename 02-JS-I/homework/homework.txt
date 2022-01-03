@@ -1,0 +1,13 @@
+1. Explicacion de conceptos:
+
+Variable: es un espacio de memoria que se reserva y dispone para almacenar datos. 
+A una variable se le asocia un nombre, que hace referencia al espacio de memoria reservado y por otro lado se le asigna un valor con un tipo de dato que se almacena en dicha variable.
+
+String: es un tipo de dato que almacena cadenas de caracteres en formato de texto.
+
+Funciones: en JavaScript son un tipo de objeto que puede o no recibir argumentos para ejecutar una operación dentro de un bloque de código propio de la función y retornar un valor. 
+A las funciones se le asigna un nombre con el cual pueden ser llamadas. Es una manera de reutilizar código y subdividir las tareas complejas en subrutinas.
+
+Declaración `if`: es una estructura condicional de control de flujo, que nos permite determinar si una condición es verdadera para ejecutar un bloque de código.
+
+Valores booleanos: son las posibilidades válidas que puede adoptar un tipo de dato Booleano, en JavaScript estos valores pueden ser true o false.
