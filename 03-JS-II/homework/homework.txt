@@ -1,0 +1,9 @@
+Tarea conceptos:
+
+For: es una estructura que permite iterar un bloque de código mientras una condicion sea verdadera, se lo denomina bucle for, dentro de su condición incluye la inicialización de una variable que incrementa o decrementa cada vez que se ejecuta el bloque de código del bucle for, una comparación que devuelve true o false para determinar si el bloque del for debe ser ejecutado y un incremeto o decremento de la variable declarada e inicializada en la primera parte del condicional del bucle for y utilizada dentro de la comparación para validar la ejecución del bucle.
+
+&&: es el operador lógico and, las expresiones que estén dentro de un condicional que incluya el "and" deben ser todas verdaderas para que la condición devuelva true, caso contrario es false.
+
+||: es el operador lógico or, las expresiones que estén dentro de un condicional que incluya "or" deben ser al menos una verdadera para que la condición devuelva true, solo es false en el caso de que todas los expresiones sean falsas.
+
+!: es el operador lógico not, se utiliza para negar una expresión, si esta es verdadera el resultado es false y si es falsa el resultado es true.
