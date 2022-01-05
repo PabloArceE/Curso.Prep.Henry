@@ -1,0 +1,17 @@
+Explicación de conceptos
+
+Objeto: en JavaScript un objeto es una colección de datos relacionados y funcionalidades. Un objeto tiene atributos y métodos. 
+
+Propiedades: Una atributo es una cualidad del objeto, un elemento dentro del mismo con un valor asignado. 
+
+Métodos: Por otro lado los objetos también pueden tener métodos que son funcionalidades propias del objeto mediante las cuales pueden crear, procesar, modificar o eliminar datos. 
+
+Búcle for...in: es una instrucción que nos permite recorrer todas las propiedades en un objeto.
+
+Notación de puntos: de esta manera podemos acceder a las distintas propiedades de un objeto y a los valores. Una vez creado el objeto podemos recuperar sus datos concatenando con puntos los nombres de los atributos ej:
+
+nombreDelObjeto.atributo1
+
+Notación de corchetes: al ser un objeto un arreglo asociativo, también podemos acceder a sus atributos mediante este tipo de notación siendo el ejemplo anterior reemplazado por:
+
+nombreDelObjeto['atributo1']
