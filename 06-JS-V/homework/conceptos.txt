@@ -1,0 +1,4 @@
+Conceptos
+
+Prototype: los prototipos son un mecanismo mediante el cual los objetos en JavaScript heredan caracteris entre sí.
+Los metódos y atributos son definidos en la propiedad prototype que reside en la función constructora del objeto.
